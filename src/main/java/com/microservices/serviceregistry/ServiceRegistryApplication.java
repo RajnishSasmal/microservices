@@ -10,6 +10,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 public class ServiceRegistryApplication {
 
 	public static void main(String[] args) {
+		//First GIT Update and Commit.
 		SpringApplication.run(ServiceRegistryApplication.class, args);
 	}
 
